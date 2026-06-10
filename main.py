@@ -15,7 +15,6 @@ while True:
         check=True
     )
 
-    # Optional: direkt zu GitHub pushen
     # subprocess.run(["git", "push"], check=True)
 
     time.sleep(10)
