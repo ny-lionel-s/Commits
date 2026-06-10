@@ -17,4 +17,4 @@ while True:
 
     # subprocess.run(["git", "push"], check=True)
 
-    time.sleep(1)
+    time.sleep(0.00001)
